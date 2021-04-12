@@ -1,0 +1,17 @@
+.btn{
+    background-color: rgb(10, 10,56); 
+}
+.btn:hover{
+    color: white;
+}
+body{
+    background-image:  url('newyork.jpg');
+}
+.main{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+}
+.main2{
+    font-family: "Satisfy script=latin rev=2";
+   
+}
